@@ -91,7 +91,7 @@ ul#topmenu li.current a { color: #F06000; }
 height: 10px;
     background-color: #fff;}
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/banner.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
